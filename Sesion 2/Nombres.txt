@@ -1,0 +1,4 @@
+nombre = "Alexito"
+Nombre = "Gabriela"
+nombre_completo= "Jose D. Garcia"
+nombreCompleto= "Marvin Gonzalez"
